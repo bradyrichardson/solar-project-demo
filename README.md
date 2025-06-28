@@ -6,16 +6,17 @@ A cutting-edge solar energy assessment tool that combines advanced 3D visualizat
 
 ## 🚀 Overview
 
-This demo showcases a sophisticated solar energy calculator that leverages state-of-the-art technologies to analyze and visualize solar potential. The system processes 3D point cloud data, integrates with Google Maps for real-world context, and employs machine learning models to deliver accurate solar assessments.
+This demo showcases a solar energy algorithm I wrote that leverages a variety of ML technologies to analyze and visualize solar potential. The system processes 3D point cloud data, integrates with Google Maps for real-world context, and employs machine learning models to deliver accurate solar assessments using the PV library.
+
+The result of running this algorithm is a Wh estimate per qualifying surface detected by the algorithm, along with data about the dimensions and angle of each plane in the point cloud.
 
 ## ✨ Key Features
 
-- **3D Point Cloud Processing**: Advanced LiDAR data analysis using Open3D and laspy
-- **Geospatial Integration**: Seamless Google Maps integration for location-based analysis
-- **Machine Learning Pipeline**: PointCLIP v2 integration for intelligent feature extraction
-- **Data Science Workflow**: Comprehensive analysis using pandas, numpy, and scipy
-- **Interactive Visualizations**: Dynamic 3D plots and charts with matplotlib
-- **Deep Learning**: PyTorch-powered neural networks for solar potential prediction
+- **3D Point Cloud Processing**: Advanced LiDAR data aggregation and processing using Open3D and laspy
+- **Geospatial Integration**: Google Maps integration for location-based analysis
+- **Machine Learning Pipeline**: PointCLIP v2 integration for  feature extraction
+- **Data Science Workflow**: Analysis using pandas, numpy, and scipy
+- **Interactive Visualizations**: 3D plots and charts with matplotlib
 
 ## 🛠️ Technology Stack
 

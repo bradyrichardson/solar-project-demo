@@ -2,7 +2,7 @@
 
 A cutting-edge solar energy assessment tool that combines advanced 3D visualization, machine learning, and geospatial analysis to provide comprehensive solar potential evaluations for any location.
 
-![Solar Energy Calculator Demo](demo.gif)
+![Solar Energy Calculator Demo](solar-demo.gif)
 
 ## 🚀 Overview
 
